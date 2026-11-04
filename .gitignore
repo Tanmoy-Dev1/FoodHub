@@ -1,0 +1,11 @@
+# Database and Mailer Sensitive config
+db.php
+includes/mailer.php
+
+# Uploaded Product/Review Images (if any)
+uploads/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
